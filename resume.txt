@@ -58,7 +58,7 @@
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+% \lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -86,7 +86,7 @@
 \subsection{Birla Institute of}
 \subsection{Technology, Mesra}
 \descript{BTECH in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\location{Expected Jul 2022 | Ranchi, India}
 \location{Cum. GPA: 7.1}
 \sectionsep
 
