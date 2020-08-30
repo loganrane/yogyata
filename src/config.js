@@ -24,15 +24,15 @@ module.exports = {
     },
     {
       name: 'Kaggle',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.kaggle.com/arpitfalcon',
     },
     {
       name: 'Medium',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://medium.com/@arpitfalcon1',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/arpitfalcon1',
     },
   ],
 
