@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Arpit'
-subtitle: 'I train to achieve 100% accuracy.'
+name: 'Brittany Chiang'
+subtitle: 'I build things for the web.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Data Scientist, currntly pursuing my undergraduate degree in Computer Science and Engineering. I specialize in building Machine Learning models to tackle real-life challenges.
+I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
