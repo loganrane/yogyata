@@ -10,17 +10,17 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Brittany Chiang',
   location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
+  email: 'arpitfalcon1@gmail.com',
+  github: 'https://github.com/ArpitFalcon',
   twitterHandle: '@bchiang7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/ArpitFalcon',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/arpitfalcon',
     },
     {
       name: 'Codepen',
