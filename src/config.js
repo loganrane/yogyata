@@ -23,7 +23,7 @@ module.exports = {
       url: 'https://www.linkedin.com/in/arpitfalcon',
     },
     {
-      name: 'Codepen',
+      name: 'Kaggle',
       url: 'https://codepen.io/bchiang7',
     },
     {
