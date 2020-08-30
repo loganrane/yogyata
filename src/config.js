@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Arpit | Data Scientist',
+  siteTitle: 'Brittany Chiang | Software Engineer',
   siteDescription:
-    'I\'m a Data Scientist, currntly pursuing my undergraduate degree in Computer Science and Engineering. I specialize in building Machine Learning models to tackle real-life challenges.',
+    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Arpit, ArpitFalcon, Data Science, Machine Learning, Data, Ranchi, BIT, Data Scientist',
+    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Arpit',
-  location: 'Ranchi, India',
-  email: 'arpitfalcon1@gmail.com',
-  github: 'https://github.com/ArpitFalcon',
-  twitterHandle: '@arpitfalcon1',
+  name: 'Brittany Chiang',
+  location: 'Boston, MA',
+  email: 'brittany.chiang@gmail.com',
+  github: 'https://github.com/bchiang7',
+  twitterHandle: '@bchiang7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/ArpitFalcon',
+      url: 'https://github.com/bchiang7',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/arpitfalcon',
+      url: 'https://www.linkedin.com/in/bchiang7',
     },
     {
       name: 'Codepen',
@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/arpitfalcon1',
+      url: 'https://twitter.com/bchiang7',
     },
   ],
 
