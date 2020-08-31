@@ -69,7 +69,6 @@ const Footer = () => {
 
   useEffect(() => {
     if (process.env.NODE_ENV !== 'production') {
-
     }
   }, []);
 
@@ -78,17 +77,17 @@ const Footer = () => {
       <StyledSocial>
         <StyledSocialList>
           {socialMedia &&
-          socialMedia.map(({ name, url }, i) => (
-            <li key={i}>
-              <StyledSocialLink
-                href={url}
-                target="_blank"
-                rel="nofollow noopener noreferrer"
-                aria-label={name}>
-                <FormattedIcon name={name}/>
-              </StyledSocialLink>
-            </li>
-          ))}
+            socialMedia.map(({ name, url }, i) => (
+              <li key={i}>
+                <StyledSocialLink
+                  href={url}
+                  target="_blank"
+                  rel="nofollow noopener noreferrer"
+                  aria-label={name}>
+                  <FormattedIcon name={name} />
+                </StyledSocialLink>
+              </li>
+            ))}
         </StyledSocialList>
       </StyledSocial>
       <StyledMetadata tabindex="-1">
@@ -99,10 +98,10 @@ const Footer = () => {
           <div>Designed &amp; Built by Brittany Chiang |</div>
         </StyledGitHubLink>
         <StyledGitHubLink
-          href="https://github.com/anmol098"
+          href="https://github.com/ArpitFalcon"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>| Customized By Anmol Pratap Singh</div>
+          <div>| Customized By Arpit Falcon</div>
         </StyledGitHubLink>
         <StyledGitHubInfo>
           <span>
