@@ -4,7 +4,7 @@ module.exports = {
     'Arpit is a Data Scientist based in India who specializes in building state of the art models to tackle real life challenges.',
   siteKeywords:
     'Arpit Falcon, Arpit, Falcon, Arpitfalcon, software engineer, machine learning engineer, data scientist, machine learning, indian',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://arpitfalcon.codes',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
