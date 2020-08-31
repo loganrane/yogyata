@@ -7,7 +7,7 @@
 </h1>
 <p align="center">
   This is my personal website here i update lots of things which can not be summed up in my resume
-  visit <a href="https://yogyata.netlify.app" target="_blank">anmolsingh.me</a>
+  visit <a href="https://yogyata.netlify.app" target="_blank">yogyata</a>
 </p>
 
 <!--
