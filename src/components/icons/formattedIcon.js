@@ -16,8 +16,6 @@ import {
   IconStar,
   IconTwitter,
   IconZap,
-  IconKaggle,
-  IconMedium,
 } from '@components/icons';
 
 const FormattedIcon = ({ name }) => {
@@ -52,10 +50,6 @@ const FormattedIcon = ({ name }) => {
       return <IconTwitter />;
     case 'Zap':
       return <IconZap />;
-    case 'Kaggle':
-      return <IconKaggle />;
-    case 'Medium':
-      return <IconMedium />;
     default:
       return <IconExternal />;
   }

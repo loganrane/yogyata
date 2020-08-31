@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Personal Website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Anmol Singh <anmolpratapsingh1997@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/anmol098/anmolsingh.me"
   },
   "keywords": [
     "gatsby"
@@ -16,9 +16,13 @@
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "serve": "gatsby build & gatsby serve",
+    "clean": "gatsby clean",
+    "updateDate": "node .\\pre-push-script.js"
   },
+  "pre-commit": [
+    "updateDate"
+  ],
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -52,7 +56,7 @@
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-remark": "^2.6.39",
     "gatsby-transformer-sharp": "^2.3.7",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.15",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
@@ -74,6 +78,9 @@
     "gatsby-remark-code-titles": "^1.1.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.1.2",
-    "prettier": "^2.0.4"
+    "moment": "^2.27.0",
+    "pre-commit": "^1.2.2",
+    "prettier": "^2.0.4",
+    "replace-in-file": "^6.1.0"
   }
 }

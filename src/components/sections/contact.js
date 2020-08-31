@@ -4,6 +4,7 @@ import sr from '@utils/sr';
 import { srConfig, email } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media, Section, Heading } from '@styles';
+
 const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
@@ -48,6 +49,7 @@ const Contact = ({ data }) => {
   const { title, buttonText } = frontmatter;
   const revealContainer = useRef(null);
   useEffect(() => sr.reveal(revealContainer.current, srConfig()), []);
+  const ht = html.split('\n')
 
   return (
     <StyledContainer id="contact" ref={revealContainer}>
@@ -55,11 +57,13 @@ const Contact = ({ data }) => {
 
       <StyledTitle>{title}</StyledTitle>
 
-      <div dangerouslySetInnerHTML={{ __html: html }} />
+      <div dangerouslySetInnerHTML={{ __html: ht[0] }}/>
 
-      <StyledEmailLink href={`mailto:${email}`} target="_blank" rel="nofollow noopener noreferrer">
+      <StyledEmailLink href={`#`} target="_blank" rel="nofollow noopener noreferrer">
         {buttonText}
       </StyledEmailLink>
+      <StyledTitle/>
+      <div dangerouslySetInnerHTML={{ __html: ht[1] }}/>
     </StyledContainer>
   );
 };

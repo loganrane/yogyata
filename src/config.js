@@ -1,40 +1,41 @@
 module.exports = {
-  siteTitle: 'Arpit | Data Scientist',
+  siteTitle: 'Anmol Pratap Singh | Software Engineer',
   siteDescription:
-    'Arpit is a Data Scientist based in India who specializes in building state of the art models to tackle real life challenges.',
+    'Anmol Singh is a software engineer based in Banglore, India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Arpit Falcon, Arpit, Falcon, Arpitfalcon, software engineer, machine learning engineer, data scientist, machine learning, indian',
-  siteUrl: 'https://brittanychiang.com',
+    'Anmol Singh, Anmol, singh, anmol098, software engineer, back-end engineer, web developer, javascript, indian',
+  siteUrl: 'https://anmolsingh.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Arpit Falcon',
-  location: 'Ranchi, India',
-  email: 'arpitfalcon1@gmail.com',
-  github: 'https://github.com/ArpitFalcon',
-  twitterHandle: '@arpitfalcon1',
+  googleVerification: 'zWJzGMVk8J4FpXsLNpt7CB17SPaa2_ti9YfdGwnGr00',
+  name: 'Anmol Pratap Singh',
+  location: 'Banglore, India',
+  email: 'hi@anmolsingh.me',
+  github: 'https://github.com/anmol098',
+  twitterHandle: '@misteranmol',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/ArpitFalcon',
+      url: 'https://github.com/anmol098',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/arpitfalcon',
+      url: 'https://www.linkedin.com/in/anmol098',
     },
     {
-      name: 'Kaggle',
-      url: 'https://www.kaggle.com/arpitfalcon',
+      name: 'Npm',
+      url: 'npx anmol',
     },
     {
-      name: 'Medium',
-      url: 'https://medium.com/@arpitfalcon1',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/misteranmol',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/arpitfalcon1',
+      url: 'https://twitter.com/misteranmol',
     },
   ],
+  lastUpdated: '26-Aug-2020',
 
   navLinks: [
     {
@@ -52,10 +53,6 @@ module.exports = {
     {
       name: 'Contact',
       url: '/#contact',
-    },
-    {
-      name: 'Blog',
-      url: 'https://udyamee.netlify.app/',
     },
   ],
 
