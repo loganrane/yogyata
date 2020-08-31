@@ -1,18 +1,18 @@
 module.exports = {
   siteTitle: 'Arpit | Data Scientist',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Arpit is a Data Scientist based in India who specializes in building state of the art models to tackle real life challenges.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Arpit Falcon, Arpit, Falcon, Arpitfalcon, software engineer, machine learning engineer, data scientist, machine learning, indian',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
+  name: 'Arpit Falcon',
+  location: 'Ranchi, India',
   email: 'arpitfalcon1@gmail.com',
   github: 'https://github.com/ArpitFalcon',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@arpitfalcon1',
   socialMedia: [
     {
       name: 'GitHub',
