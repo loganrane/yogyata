@@ -3,15 +3,16 @@
 </div>
 
 <h1 align="center">
-  anmolsingh.me
+  arpitfalcon
 </h1>
 <p align="center">
   This is my personal website here i update lots of things which can not be summed up in my resume
-  visit <a href="https://anmolsingh.me" target="_blank">anmolsingh.me</a>
+  visit <a href="https://yogyata.netlify.app" target="_blank">anmolsingh.me</a>
 </p>
 
-
+<!--
 ![demo](https://user-images.githubusercontent.com/15426564/90930848-12dcd880-e419-11ea-8b58-ded1f587a3ec.png)
+--> 
 
 ## 🚨 Forking this repo (please read!)
 
