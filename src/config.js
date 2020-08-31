@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Anmol Pratap Singh | Software Engineer',
+  siteTitle: 'Arpit | Data Scientist',
   siteDescription:
-    'Anmol Singh is a software engineer based in Banglore, India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Arpit is a Data Scientist based in India who specializes in building state of the art models to tackle real life challenges.',
   siteKeywords:
-    'Anmol Singh, Anmol, singh, anmol098, software engineer, back-end engineer, web developer, javascript, indian',
-  siteUrl: 'https://anmolsingh.me',
+    'Arpit Falcon, Arpit, Falcon, Arpitfalcon, software engineer, machine learning engineer, data scientist, machine learning, indian',
+  siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'zWJzGMVk8J4FpXsLNpt7CB17SPaa2_ti9YfdGwnGr00',
-  name: 'Anmol Pratap Singh',
-  location: 'Banglore, India',
-  email: 'hi@anmolsingh.me',
-  github: 'https://github.com/anmol098',
-  twitterHandle: '@misteranmol',
+  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  name: 'Arpit Falcon',
+  location: 'Ranchi, India',
+  email: 'arpitfalcon1@gmail.com',
+  github: 'https://github.com/ArpitFalcon',
+  twitterHandle: '@arpitfalcon1',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/anmol098',
+      url: 'https://github.com/ArpitFalcon',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/anmol098',
+      url: 'https://www.linkedin.com/in/arpitfalcon',
     },
     {
-      name: 'Npm',
-      url: 'npx anmol',
+      name: 'Kaggle',
+      url: 'https://www.kaggle.com/arpitfalcon',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/misteranmol',
+      name: 'Medium',
+      url: 'https://medium.com/@arpitfalcon1',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/misteranmol',
+      url: 'https://twitter.com/arpitfalcon1',
     },
   ],
   lastUpdated: '26-Aug-2020',
@@ -53,6 +53,10 @@ module.exports = {
     {
       name: 'Contact',
       url: '/#contact',
+    },
+    {
+      name: 'Blog',
+      url: 'https://udyamee.netlify.app/',
     },
   ],
 
