@@ -35,7 +35,7 @@ module.exports = {
       url: 'https://twitter.com/arpitfalcon1',
     },
   ],
-  lastUpdated: '26-Aug-2020',
+  lastUpdated: '31-Aug-2020',
 
   navLinks: [
     {
