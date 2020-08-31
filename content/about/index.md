@@ -1,18 +1,19 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './arpit.jpg'
 skills:
-  - JavaScript (ES6+)
-  - Vue
-  - Node.js
-  - SuiteScript
   - Python
+  - Deep Learning
+  - Flask
+  - Amazon Sagemaker
+  - TensorFlow
+  - Machine Learning
 ---
 
-Hello! I'm Anmol, a software engineer based in Banglore, India.
+Hello! I'm Arpit, a Data Scientist based in Ranchi, India.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect experiences.
+I enjoy wrangling with data, understanding their underlying voice & and the information they give.
 
-Shortly after graduating from [SRM University](https://www.srmist.edu.in/), I joined the engineering team at [ClearTax](https://www.cleartax.in/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I'm an undergraduate student specializing in Computer Science and Engineering from [Birla Institute of Technology](https://bitmesra.ac.in/). I'm currently exploring the dimensions of AutoML.
 
 Here are a few technologies I've been working with recently:
