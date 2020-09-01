@@ -1,0 +1,25 @@
+---
+label: Featured
+hide_body: false
+fields:
+- type: text
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: github
+  label: github
+- type: text
+  name: external
+  label: external
+- type: list
+  name: tech
+  label: tech
+- type: boolean
+  name: showInProjects
+  label: showInProjects
