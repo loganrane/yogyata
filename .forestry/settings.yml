@@ -5,16 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/projects
-  label: Projects
-  create: all
-  match: "**/*"
-- type: directory
   path: content/jobs
   label: Jobs
   create: all
   match: "**/*"
   new_doc_ext: index.md
+- type: directory
+  path: content/projects
+  label: Projects
+  create: all
+  match: "**/*"
 - type: heading
   label: Work Experience
 - type: heading
