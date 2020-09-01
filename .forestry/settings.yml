@@ -4,26 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content/featured
-  label: Featured
-  create: all
-  match: "**/*"
+- type: heading
+  label: Work Experience
 - type: directory
   path: content/jobs
   label: Jobs
   create: all
   match: "**/*"
   new_doc_ext: index.md
+- type: heading
+  label: Projects
 - type: directory
   path: content/projects
   label: Projects
   create: all
   match: "**/*"
-- type: heading
-  label: Work Experience
-- type: heading
-  label: Projects
+- type: directory
+  path: content/featured
+  label: Featured
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
