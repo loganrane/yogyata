@@ -6,8 +6,7 @@
   arpitfalcon.codes
 </h1>
 <p align="center">
-  This is my personal website here i update lots of things which can not be summed up in my resume
-  visit <a href="https://arpitfalcon.codes/" target="_blank">arpitfalcon.codes</a>
+  A personal website to showcase all my skills, works and interests. 🦅 Visit:- <a href="https://arpitfalcon.codes/" target="_blank">arpitfalcon.codes</a>
 </p>
 
 
