@@ -20,5 +20,3 @@ fields:
 - type: text
   name: url
   label: url
-pages:
-- content/jobs/machine-learning-traninee.index.md
