@@ -20,3 +20,5 @@ fields:
 - type: text
   name: url
   label: url
+pages:
+- content/jobs/CodeAsylum/machine-learning-engineer-trainee.index.md
