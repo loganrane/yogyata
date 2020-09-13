@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 
 ---
-Data Analysis of US - Airlines Tweets Sentiment Analysis. The data consists of various tweets 
+Data Analysis of US - Airlines Tweets Sentiment Analysis. An interactive web dashboard to view and analyse the data of tweets about US Airlines Services. 
