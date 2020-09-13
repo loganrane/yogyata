@@ -1,13 +1,15 @@
 ---
-date: '2020-06-01'
-title: 'Airline Travel Credit'
-github: ''
-external: ''
+date: 2020-09-06T18:30:00Z
+title: US Twitter Sentiment Analysis - Dashboard
+github: https://github.com/ArpitFalcon/bhavishyavaanee/tree/master/dataanalysis_twitter_us_sentiment
+external: https://dashboard-us-twitter-sentiment.herokuapp.com/
 tech:
-  - Pdf-Parser
-  - NodeJs
-company: 'ClearTax'
+- python
+- streamlit
+- plotly
+- pandas
+company: ''
 showInProjects: true
----
 
-In-house airline module for claiming input tax credits on flight tickets and helping company to save up to ₹10 LPA on recurring basis.
+---
+Data Analysis of US - Airlines Sentiment Analysis. The data consists of various tweets 
