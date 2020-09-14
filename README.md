@@ -3,24 +3,12 @@
 </div>
 
 <h1 align="center">
-  arpitfalcon
+  arpitfalcon.codes
 </h1>
 <p align="center">
-  This is my personal website here i update lots of things which can not be summed up in my resume
-  visit <a href="https://yogyata.netlify.app" target="_blank">yogyata</a>
+  A personal website to showcase all my skills, works and interests. 🦅 Visit:- <a href="https://arpitfalcon.codes/" target="_blank">arpitfalcon.codes</a>
 </p>
 
-<!--
-![demo](https://user-images.githubusercontent.com/15426564/90930848-12dcd880-e419-11ea-8b58-ded1f587a3ec.png)
---> 
-
-## 🚨 Forking this repo (please read!)
-
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
-
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
-
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
 ### TL;DR
 
