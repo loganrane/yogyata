@@ -101,7 +101,7 @@ const Footer = () => {
           href="https://github.com/ArpitFalcon"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>| Customized By Arpit Falcon</div>
+          <div>Customized By Arpit Falcon</div>
         </StyledGitHubLink>
         <StyledGitHubInfo>
           <span>
