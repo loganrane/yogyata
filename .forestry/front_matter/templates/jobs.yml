@@ -1,0 +1,25 @@
+---
+label: Jobs
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: company
+  label: company
+- type: text
+  name: location
+  label: location
+- type: text
+  name: range
+  label: range
+- type: text
+  name: url
+  label: url
+pages:
+- content/jobs/CodeAsylum/machine-learning-engineer-trainee.index.md
+- content/jobs/IET Student's Chapter/executive-member.index.md
