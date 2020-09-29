@@ -95,13 +95,13 @@ const Footer = () => {
           href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div></div>
+          <div>Designed by Britanny</div>
         </StyledGitHubLink>
         <StyledGitHubLink
           href="https://github.com/ArpitFalcon"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Customized By Arpit Falcon</div>
+          <div>| Customized By Arpit Falcon</div>
         </StyledGitHubLink>
         <StyledGitHubInfo>
           <span>
